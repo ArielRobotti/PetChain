@@ -1,5 +1,5 @@
 # PetChain
-## Pet Chain: Pet's Clinic History on Internet Computer (ICP)
+## TypeScript (Azle) project: Pet's Clinic History on Internet Computer (ICP)
 ### Introduction
 Pet Chain is a TypeScript (Azle) project developed on the Internet Computer (ICP) platform, designed to manage the medical history of domestic animals. This decentralized system aims to provide pet owners with exclusive access to their pets' clinical records, allowing them to view historical information, record relevant events related to their pet's daily life, schedule veterinary appointments, cancel appointments, and more. Additionally, the platform incorporates a special user type, dedicated to animal health professionals, who can contribute to the pet's clinical history by documenting their professional interactions with the animal, including medication prescriptions, treatments, diagnoses, medical tests, and appointment scheduling.
 
